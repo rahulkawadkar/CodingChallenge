@@ -1,0 +1,55 @@
+-------------------------
+|   DescribeInstances   |
++-----------------------+
+|       Instance        |
++-----------------------+
+|  i-005647648fndjvds90  |
++-----------------------+
+============================================================
+============================================================
+Requesting AMI for instance i-005647648fndjvds90...
+AMI_NAME : i-005647648fndjvds90 - 2023-02-14_10-00
+AMI_DESCRIPTION : i-005647648fndjvds90 Backup - 2023-03-09_10-00
+AMI ID : ami-005647648fndjvds90
+AMI request complete!
+Checking State of AMI-ID : ami-005647648fndjvds90
+Checking AMI State pending
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Checking AMI State pending
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Checking AMI State available
+
+..........
+
+Creating Backup Tag for AMI ID: ami-005647648fndjvds90
+Created Backup Tag for AMI ID: 
+============================================================
+Instance Type : t2.medium
+============================================================
+Instance Subnet-ID : subnet-abcdef123456
+============================================================
+Instance VPC-ID : vpc-abcdef123456
+============================================================
+Instance Key-Pair : None
+============================================================
+Instance Security Group : sg-bcdefg23567
