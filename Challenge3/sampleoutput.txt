@@ -1,0 +1,5 @@
+$ ./inout.sh
+{“a”:{“b”:{“c”:”d”}}}
+Value : d
+{“x”:{“y”:{“z”:”a”}}}
+Value : a
